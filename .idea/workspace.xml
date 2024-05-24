@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0522026-19f0-41a1-941e-0fd8bb14f521" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/chat-gpt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icons/ChatGPT.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/chat/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/profile/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(dashboard)/tours/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(home)/components/auth-loading.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(home)/components/typed-text-description.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(home)/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(home)/sign-in/[[...sign-in]]/loading.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(home)/sign-in/[[...sign-in]]/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(home)/sign-up/[[...sign-up]]/loading.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/(home)/sign-up/[[...sign-up]]/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/_providers/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/_providers/next-ui.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/_providers/react-query.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/_providers/react-toastify.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middleware.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/check-banks-card.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/const-time.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/convert-color.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/convert-date-picker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/convert-time-to-milliseconds.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/fn_deadline.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/format-cad-number.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/format-number.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/format-phone-number.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/get-base64.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/get-chunks-from-string.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/get-query-client.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/get-random-number.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/handle-filter-option-select-box.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/handle-full-screen.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/handle-on-settled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/handle-set-input-rule.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/is-all-english-characters.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/is-all-persian-characters.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/is-array-equal.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/is-contains-english-character.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/is-contains-persian-character.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/is-json.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/is-number.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/is-valid-email.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/is-valid-national-code.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/remove-empty-key.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/scroll-top.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/string/NativeString.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/string/core/currency.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/string/core/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/string/core/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/string/core/numberFunctionality.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/string/core/scientificNotation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/string/core/trim.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/string/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/to-capitalize.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/to-currency.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/to-en-digit.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/truncated-middle-text.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/types/check-banks-card.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/types/handle-on-settled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/types/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/types/set-input-rule.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/types/time-unit.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/types/truncated-middle-text.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/types/use-create-antd-zod-validation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/types/use-dark-mode.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/use-dark-mode.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/use-local-storage.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/use-window-size.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/wait.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/helpers/zod-schema-set-input-rule.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2gspli2bt72vADG3VkMxA5zw863" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/projects/hub-frontend/src/app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\projects\\chat-gpt\\node_modules\\typescript\\lib"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\hub-frontend\src\app" />
+      <recent name="C:\projects\chat-gpt\src\app" />
+      <recent name="C:\projects\chat-gpt\src\app\(home)\sign-up\[[...sign-up]]" />
+      <recent name="C:\projects\chat-gpt\src\app\(home)" />
+      <recent name="C:\projects\chat-gpt\src\libs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\chat-gpt\src\app" />
+      <recent name="C:\projects\chat-gpt\src\libs" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0522026-19f0-41a1-941e-0fd8bb14f521" name="Changes" comment="" />
+      <created>1716496292098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716496292098</updated>
+      <workItem from="1716496294399" duration="35579000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

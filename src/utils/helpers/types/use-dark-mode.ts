@@ -1,0 +1,1 @@
+export type TThemeItem = 'light' | 'dark';
